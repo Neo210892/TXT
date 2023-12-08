@@ -1,4 +1,4 @@
-Bug report:
+Bug report:!
 
 1. id - B1;
 2. Summary - Incomplete digits displaying of the number of items in the cart when entering a three-digit value;
